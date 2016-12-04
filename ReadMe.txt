@@ -1,0 +1,1 @@
+study for C8051F020
